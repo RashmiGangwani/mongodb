@@ -11,4 +11,4 @@ d={
 
 db1 = client['mongotest1']
 coll = db1['test']
-coll.insert_one(d)
+coll.insert_one(d )
